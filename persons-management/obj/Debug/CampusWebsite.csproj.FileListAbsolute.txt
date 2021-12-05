@@ -1,0 +1,114 @@
+C:\Users\piete\Desktop\Project\persons-management\bin\persons-management.dll.config
+C:\Users\piete\Desktop\Project\persons-management\bin\persons-management.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\persons-management.pdb
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\csc.exe
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\csc.exe.config
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\csc.rsp
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\csi.exe
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\csi.exe.config
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\csi.rsp
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.AppContext.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.Console.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.IO.Compression.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.IO.Pipes.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.Security.Claims.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.ValueTuple.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.Xml.XPath.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\vbc.exe
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\vbc.exe.config
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\vbc.rsp
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\VBCSCompiler.exe
+C:\Users\piete\Desktop\Project\persons-management\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\piete\Desktop\Project\persons-management\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\piete\Desktop\Project\persons-management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\piete\Desktop\Project\persons-management\obj\Debug\CampusWebsite.csprojAssemblyReference.cache
+C:\Users\piete\Desktop\Project\persons-management\obj\Debug\CampusWebsite.csproj.CoreCompileInputs.cache
+C:\Users\piete\Desktop\Project\persons-management\obj\Debug\CampusWebsite.csproj.CopyComplete
+C:\Users\piete\Desktop\Project\persons-management\obj\Debug\persons-management.dll
+C:\Users\piete\Desktop\Project\persons-management\obj\Debug\persons-management.pdb
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\CampusWebsite.dll.config
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\CampusWebsite.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\CampusWebsite.pdb
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\csc.exe
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\csc.exe.config
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\csc.rsp
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\csi.exe
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\csi.exe.config
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\csi.rsp
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.AppContext.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.Console.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.IO.Compression.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.IO.Pipes.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.Security.Claims.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.ValueTuple.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.Xml.XPath.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\vbc.exe
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\vbc.exe.config
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\vbc.rsp
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\VBCSCompiler.exe
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\piete\Desktop\Campus Website\persons-management\obj\Debug\CampusWebsite.csprojAssemblyReference.cache
+C:\Users\piete\Desktop\Campus Website\persons-management\obj\Debug\CampusWebsite.csproj.CoreCompileInputs.cache
+C:\Users\piete\Desktop\Campus Website\persons-management\obj\Debug\CampusWebsite.csproj.CopyComplete
+C:\Users\piete\Desktop\Campus Website\persons-management\obj\Debug\CampusWebsite.dll
+C:\Users\piete\Desktop\Campus Website\persons-management\obj\Debug\CampusWebsite.pdb
